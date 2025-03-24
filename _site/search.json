@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "I am Maryam Babaei, a PhD student at TISL Lab at ETS. I am doing my research on Privacy and Security risks of post-hoc explananations under supervision of Ulrich Aïvodji at ETS and Sébastien Gambs at UQAM.\nI am also a student member at NSERC CREATE - Responsible Development of Artificial Intelligence and Mila\nMy commitment to security, privacy, and ethical machine learning research has been shaped by my personal, academic, and professional experiences. With my background in addressing user privacy concerns and understanding the intricacies of data processing systems, I am committed to ensuring that advancements in AI adhere to strong ethical principles.\nMy thesis focuses on finding privacy and security risks of post-hoc explanations in machine learning models. I aim to identify vulnerabilities and propose solutions to mitigate these risks, ensuring safer and more reliable AI systems. I also try to look for unexploited vulnerabilities and perform novel attacks leveraging these vulnerabilities to gin the attention of researchers to the importance of mitigating these vulnerabilities. I will share my other contributions in the Research section.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Maryam Babaei",
+    "section": "",
+    "text": "Under Construction",
+    "crumbs": [
+      "Publications"
+    ]
+  }
+]
