@@ -6,7 +6,7 @@ categories: [Face recognition, Explainability, machine learning, ethics]
 # description: "Reviewing the book about a face recognition company and discussing its implications for trustworthy AI, privacy, and ethics."
 ---
 
-<!-- ## Your Faces blong to Us: Book review through the lens of Trustwortht AI -->
+<!-- ## Your Face belongs to Us: Book review through the lens of Trustwortht AI -->
 ![](/images/yourfaces.jpg){ width=250px fig-align="center" }
 
 This book is not just a book; it is a wake-up call.
