@@ -1,5 +1,5 @@
 ---
-title: "Your Face belongs to Us: Book review through the lens of Trustwortht AI"
+title: "Your Face belongs to Us: Book review through the lens of Trustworthy AI"
 author: "Maryam Babaei"
 date: "2025-08-18"
 categories: [Face recognition, Explainability, machine learning, ethics]
