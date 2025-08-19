@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "images/"
+    - "files/"
   
 website:
   title: "Maryam Babaei"
@@ -11,24 +14,24 @@ website:
       - text: |
             <div style="text-align: center;">
             <!-- Profile Image -->
-            <img src='images/profile.jpeg' alt='Maryam Babaei' style='width: 120px; border-radius: 50%; margin-bottom: 15px;' />
+            <img src='/images/profile.jpeg' alt='Maryam Babaei' style='width: 120px; border-radius: 50%; margin-bottom: 15px;' />
             
             <!-- Social Icons -->
             <div style="margin-top: 10px;">
               <a href="https://www.linkedin.com/in/maryam-babaei85/" target="_blank" style="margin-right: 10px;">
-                <img src="images/linkedin.png" alt="LinkedIn" style="width: 25px;" />
+                <img src="/images/linkedin.png" alt="LinkedIn" style="width: 25px;" />
               </a>
               <a href="https://github.com/maryambabaei-mb" target="_blank" style="margin-right: 10px;">
-                <img src="images/github.png" alt="GitHub" style="width: 25px;" />
+                <img src="/images/github.png" alt="GitHub" style="width: 25px;" />
               </a>
               <a href="https://scholar.google.com/citations?user=ZRXB8MEAAAAJ&hl=en" target="_blank">
-                <img src="images/scholar.png" alt="Google Scholar" style="width: 25px;" />
+                <img src="/images/scholar.png" alt="Google Scholar" style="width: 25px;" />
               </a>
             </div>
 
             <!-- CV Button -->
             <div style="margin-top: 20px;">
-              <a href="files/Maryam_Babaei.pdf" target="_blank" style="text-decoration: none;">
+              <a href="/files/Maryam_Babaei.pdf" target="_blank" style="text-decoration: none;">
                 <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
                   Download CV
                 </button>
@@ -37,7 +40,9 @@ website:
             </div>
       - href: index.qmd
         text: Home
-      - about.qmd
+      # - about.qmd
+      - text: Blog
+        href: blog/index.qmd
       - text: Publications 
         href: "https://scholar.google.com/citations?user=ZRXB8MEAAAAJ&hl=en" #research.qmd
 
